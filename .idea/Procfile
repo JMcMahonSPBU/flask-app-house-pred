@@ -1,2 +1,1 @@
-Copy code
 web: gunicorn app:app
