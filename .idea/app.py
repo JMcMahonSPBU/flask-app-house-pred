@@ -22,6 +22,7 @@
 
 
 # let's import pandas library and set options to be able to view data right in the browser
+from flask import Flask
 import pandas as pd
 import seaborn as sns
 import scipy.stats as stats
